@@ -25,7 +25,6 @@
 </p>
 
 ### 👨‍💼 About Me:
-- 💼 I'm a **Businessman & CEO** of **Suryansh Divyansh Kirana Store**  
 - 🎮 Gamer & tech enthusiast  
 - 💻 I work with **Python,**  
 - 💬 Talk to me about **Business, Technology, Gaming, and Entrepreneurship**  
