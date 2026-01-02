@@ -139,13 +139,6 @@
 
 ## 📊 GitHub Statistics
 
-<!-- 3D Contribution Snake -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/notrealsuryansh/notrealsuryansh/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/notrealsuryansh/notrealsuryansh/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/notrealsuryansh/notrealsuryansh/output/github-contribution-grid-snake.svg">
-</picture>
-
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=notrealsuryansh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notrealsuryansh&layout=compact&langs_count=8&theme=tokyonight&border_radius=10&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
