@@ -47,7 +47,7 @@
 > *– Tony Stark*
 
 <p align="center">
-  <img src="https://media.giphy.com/media/8PBfNDoySmsRc49P4F/giphy.gif" width="300" alt="Tony Stark">
+  <img src="https://media.giphy.com/media/KctrWMQ7u9D2du0YmD/giphy.gif" width="300" alt="Iron Man">
 </p>
 
 > 🔥 **Build things. Break things. Learn. Repeat.**  
@@ -215,10 +215,23 @@ print(f"Currently: {current_focus['vibe']}")
 <!-- 3D Gradient Line -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 💡 Random Dev Quote
+## 💡 Tony Stark's Wisdom
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+
+> **"I am Iron Man."**  
+> *– Tony Stark*
+
+---
+
+> **"If you're nothing without the suit, then you shouldn't have it."**  
+> *– Tony Stark*
+
+---
+
+> **"Genius, billionaire, playboy, philanthropist."**  
+> *– Tony Stark*
+
 </div>
 
 ---
@@ -247,7 +260,7 @@ print(f"Currently: {current_focus['vibe']}")
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Made_with-❤️_and_☕-red?style=for-the-badge" alt="Made with love and coffee"/>
+  <img src="https://img.shields.io/badge/Made_with-❤️_and_☕-FF0000?style=for-the-badge&labelColor=000000" alt="Made with Love and Coffee"/>
 </p>
 
 ---
